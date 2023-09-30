@@ -1,7 +1,7 @@
 {
   "name": "buscador",
   "version": "0.1.0",
-  "homepage": "https://MiguelDaSilvaGomes.github.io/Buscador-de-CPF",
+  "homepage": "https://MiguelDaSilvaGomes.github.io/Buscador-de-CEP",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
